@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637177324 source:d:\arquivos\ufrn\2021_2\programação avançada\unidade 1\14-projeto - polinomios\poly\poly.cpp
+	"Poly.h"
+	"cmath"
+	<iostream>
+	<fstream>
+
+1637363145 d:\arquivos\ufrn\2021_2\programação avançada\unidade 1\14-projeto - polinomios\poly\include\poly.h
+	"string"
+
+1637189921 source:d:\arquivos\ufrn\2021_2\programação avançada\unidade 1\14-projeto - polinomios\poly\poly-main.cpp
+	<iostream>
+	<string>
+	"Poly.h"
+
